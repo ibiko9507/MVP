@@ -1,0 +1,5 @@
+﻿HANDBALL
+ibrahim Yılmaz;ibrahimYilmaz;1;Fenerbahçe;G;13;0
+Ömer Yılmaz;omerYilmaz;2;Fenerbahçe;F;13;4
+Emre Yılmaz;emreYilmaz;3;Galatasaray;G;15;2
+Çetin Yılmaz;cetinYilmaz;4;Galatasaray;G;10;3;
